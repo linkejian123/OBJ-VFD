@@ -1,0 +1,29 @@
+[Eagle]
+Version="08 00 00"
+Platform="Windows"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="E:/Dropbox/VFD Clock/lbr/ECE477_Resources.lbr"
+UsedLibrary="E:/Dropbox/VFD Clock/lbr/SparkFun-Connectors.lbr"
+UsedLibrary="E:/Dropbox/VFD Clock/lbr/SparkFun-DigitalIC.lbr"
+UsedLibrary="E:/Dropbox/VFD Clock/lbr/SparkFun-RF.lbr"
+UsedLibrary="E:/Dropbox/VFD Clock/lbr/XXXXXXtube supl.lbr"
+UsedLibrary="E:/Dropbox/VFD Clock/lbr/adafruit.lbr"
+UsedLibrary="E:/Dropbox/VFD Clock/lbr/russian-nixies.lbr"
+UsedLibrary="E:/Dropbox/VFD Clock/lbr/tubes-2233.lbr"
+UsedLibrary="E:/Dropbox/VFD Clock/lbr/tubes.lbr"
+UsedLibrary="E:/Dropbox/VFD Clock/lbr/tubes_stockes.lbr"
+UsedLibrary="icetube.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="0 0 1279 714"
+State=1
+Number=0
+
+[Desktop]
+Screen="1366 768"
+Window="Win_1"
